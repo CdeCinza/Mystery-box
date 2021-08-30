@@ -1,3 +1,10 @@
 .button {
     margin-top: 4px;
+    margin-left: 4px;
+}
+
+footer img{
+    height: 100px;
+    width: 110px;
+    margin-top: 499px;
 }
