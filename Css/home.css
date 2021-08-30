@@ -6,5 +6,11 @@
 footer img{
     height: 100px;
     width: 110px;
-    margin-top: 499px;
+    margin-top: 218px;
+}
+
+.texto {
+    text-align: center;
+    margin-top: 20%;
+    text-shadow: 3px 2px 3px black;
 }
